@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyStaff</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="test_value"> English I Teacher /The American Sign
+    Language Club Sponsor/ The Slam Poetry Society Club Sponsor/ Literacy
+    Leadership Team Member</string>
+
+    <string name="staff">Staff</string>
+    <string name="staff_name">Staff Name</string>
+    <string name="set_as_default">Set as Default</string>
+
+
+</resources>
